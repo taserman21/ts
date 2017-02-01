@@ -1,0 +1,3 @@
+cd Time\ Sheep
+
+make
